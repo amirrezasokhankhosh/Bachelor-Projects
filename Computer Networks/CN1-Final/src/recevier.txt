@@ -1,0 +1,280 @@
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEVIER : index 0 is not added yet.
+
+RECEVIER : Starting to read from buffer in index 0
+
+RECEIVER : Got frame with index 0 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 1
+
+RECEIVER : Got frame with index 1 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 2
+
+RECEIVER : Got frame with index 2 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 3
+
+RECEIVER : Got frame with index 3 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 4
+
+RECEIVER : Got frame with index 4 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 5
+
+RECEIVER : Got frame with index 5 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 6
+
+RECEIVER : Got frame with index 6 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 7
+
+RECEIVER : Got frame with index 7 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 8
+
+RECEIVER : Got frame with index 8 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 9
+
+RECEIVER : Got frame with index 9 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 10
+
+RECEIVER : Got frame with index 10 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 11
+
+RECEIVER : Got frame with index 11 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 12
+
+RECEIVER : Got frame with index 12 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 13
+
+RECEVIER : Starting to read from buffer in index 14
+
+RECEIVER : Got frame with index 13 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 15
+
+RECEIVER : Got frame with index 1 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 16
+
+RECEIVER : Got frame with index 14 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 17
+
+RECEIVER : Got frame with index 15 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 18
+
+RECEIVER : Got frame with index 2 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 19
+
+RECEIVER : Got frame with index 3 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 20
+
+RECEIVER : Got frame with index 4 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 21
+
+RECEVIER : Starting to read from buffer in index 22
+
+RECEVIER : Starting to read from buffer in index 23
+
+RECEVIER : Starting to read from buffer in index 24
+
+RECEIVER : Got frame with index 8 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 25
+
+RECEIVER : Got frame with index 9 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 26
+
+RECEVIER : Starting to read from buffer in index 27
+
+RECEVIER : Starting to read from buffer in index 28
+
+RECEIVER : Got frame with index 12 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 29
+
+RECEVIER : Starting to read from buffer in index 30
+
+RECEIVER : Got frame with index 14 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 31
+
+RECEVIER : Starting to read from buffer in index 32
+
+RECEVIER : Starting to read from buffer in index 33
+
+RECEVIER : Starting to read from buffer in index 34
+
+RECEVIER : Starting to read from buffer in index 35
+
+RECEIVER : Got frame with index 3 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 36
+
+RECEIVER : Got frame with index 4 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 37
+
+RECEVIER : Starting to read from buffer in index 38
+
+RECEVIER : Starting to read from buffer in index 39
+
+RECEVIER : Starting to read from buffer in index 40
+
+RECEVIER : Starting to read from buffer in index 41
+
+RECEVIER : Starting to read from buffer in index 42
+
+RECEVIER : Starting to read from buffer in index 43
+
+RECEVIER : Starting to read from buffer in index 44
+
+RECEVIER : Starting to read from buffer in index 45
+
+RECEVIER : Starting to read from buffer in index 46
+
+RECEVIER : Starting to read from buffer in index 47
+
+RECEVIER : Starting to read from buffer in index 48
+
+RECEVIER : Starting to read from buffer in index 49
+
+RECEVIER : Starting to read from buffer in index 50
+
+RECEVIER : Starting to read from buffer in index 51
+
+RECEIVER : Got frame with index 3 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 52
+
+RECEIVER : Got frame with index 4 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 53
+
+RECEVIER : Starting to read from buffer in index 54
+
+RECEVIER : Starting to read from buffer in index 55
+
+RECEVIER : Starting to read from buffer in index 56
+
+RECEVIER : Starting to read from buffer in index 57
+
+RECEVIER : Starting to read from buffer in index 58
+
+RECEVIER : Starting to read from buffer in index 59
+
+RECEVIER : Starting to read from buffer in index 60
+
+RECEVIER : Starting to read from buffer in index 61
+
+RECEVIER : Starting to read from buffer in index 62
+
+RECEVIER : Starting to read from buffer in index 63
+
+RECEVIER : Starting to read from buffer in index 64
+
+RECEVIER : Starting to read from buffer in index 65
+
+RECEVIER : Starting to read from buffer in index 66
+
+RECEVIER : Starting to read from buffer in index 67
+
+RECEIVER : Got frame with index 3 from buffer , Sending ACK to sender.
+
+RECEVIER : Starting to read from buffer in index 68
+
+RECEIVER : Got frame with index 4 from buffer , Sending NAK to sender.
+
+RECEVIER : Starting to read from buffer in index 69
+
+RECEVIER : Starting to read from buffer in index 70
+
+RECEVIER : Starting to read from buffer in index 71
+
+RECEVIER : Starting to read from buffer in index 72
+
+RECEVIER : Starting to read from buffer in index 73
+
+RECEVIER : Starting to read from buffer in index 74
+
+RECEVIER : Starting to read from buffer in index 75
+
+RECEVIER : Starting to read from buffer in index 76
+
+RECEVIER : Starting to read from buffer in index 77
+
+RECEVIER : Starting to read from buffer in index 78
+
+RECEVIER : Starting to read from buffer in index 79
+
+RECEVIER : Starting to read from buffer in index 80
+
+RECEVIER : Starting to read from buffer in index 81
+
+RECEVIER : Starting to read from buffer in index 82
+
+RECEVIER : Starting to read from buffer in index 83
+
+RECEVIER : Starting to read from buffer in index 84
+
+RECEIVER : Got frame with index 4 from buffer , Sending ACK to sender.
+

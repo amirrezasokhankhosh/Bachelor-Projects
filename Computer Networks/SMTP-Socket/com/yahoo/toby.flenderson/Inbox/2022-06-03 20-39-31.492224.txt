@@ -1,0 +1,6 @@
+<email_from> micheal.scott@gmail.com </email_from>
+<email_to> toby.flenderson@yahoo.com </email_to>
+<email_data>
+Oh Hi Toby,
+Could you close the door on your way out?
+</email_data>
